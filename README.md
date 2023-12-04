@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**mhmdsalem33/mhmdsalem33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ALEXON INCORP. FOR E-SOLUTIONS
 - 🌱 I’m currently learning mobile development technologies like Android Native and Flutter.
 - 👯 I’m looking to collaborate on ...
