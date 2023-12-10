@@ -11,7 +11,7 @@
 -->
 
 
-I'm mhmd salem , android softwafe developer , i'm interested in computer science in general and Software Development in a specific way, and I have the desire to prove my software abilities and I seek to develop myself and my skills every day.
+I'm mhmd salem , android software developer , i'm interested in computer science in general and Software Development in a specific way, and I have the desire to prove my software abilities and I seek to develop myself and my skills every day.
 - * I’m currently learning mobile development technologies like Android Native and Flutter.
 - * I’m currently learning about Back-End, Database, Algorithms, and Data Structure with C++.
 - * Future Goals: Contribute more to the community and learn more about Computer Science and new technologies that arise.
@@ -23,11 +23,17 @@ That's all 😃.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelshahatt&show_icons=true&locale=en&layout=compact" alt="MhmdSalem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdsalem33&show_icons=true&locale=en" alt="mahmoudelshahatt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdsalem33&show_icons=true&locale=en" alt="MhmdSalem" /></p>
 
 
  ## Contact With Me
-<img align="left" alt="Mahmoud | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-<img align="left" alt="Mahmoud | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-<a href="https://codeforces.com/profile/mahmoud_elshahatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmoud_elshahatt" height="30" width="40" /></a>
-</p>
+<!-- <img align="left" alt="Mhmd salem | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" /> --> 
+<!-- <img align="left" alt="Mhmd salem | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" /> -->
+  <a href="mhmd.salem33@yahoo.com" target="_blank">
+        <img align="left" alt="Email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+    </a>
+
+  <!-- LinkedIn Icon -->
+    <a href="https://www.linkedin.com/in/mhmd-salem-a004a0213/" target="_blank">
+        <img align="left" alt="LinkedIn" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+    </a>
