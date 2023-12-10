@@ -29,11 +29,8 @@ That's all 😃.
  ## Contact With Me
 <!-- <img align="left" alt="Mhmd salem | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" /> --> 
 <!-- <img align="left" alt="Mhmd salem | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" /> -->
-  <a href="mhmd.salem33@yahoo.com" target="_blank">
-        <img align="left" alt="Email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-    </a>
+## Contact With Me
 
-  <!-- LinkedIn Icon -->
-    <a href="https://www.linkedin.com/in/mhmd-salem-a004a0213/" target="_blank">
-        <img align="left" alt="LinkedIn" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-    </a>
+[![Email](https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico)](mailto:mhmd.salem33@yahoo.com)
+[![LinkedIn](https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca)](https://www.linkedin.com/in/mhmd-salem-a004a0213/)
+
