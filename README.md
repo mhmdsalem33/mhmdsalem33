@@ -26,11 +26,6 @@ That's all 😃.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdsalem33&show_icons=true&locale=en" alt="MhmdSalem" /></p>
 
 
-
-## Contact With Me
-
-## Contact With Me
-
 ## Contact With Me
 
 [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" alt="Email" width="30" height="30">](mailto:mhmd.salem33@yahoo.com)
