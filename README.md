@@ -26,9 +26,9 @@ That's all 😃.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdsalem33&show_icons=true&locale=en" alt="MhmdSalem" /></p>
 
 
- ## Contact With Me
-<!-- <img align="left" alt="Mhmd salem | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" /> --> 
-<!-- <img align="left" alt="Mhmd salem | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" /> -->
+
+## Contact With Me
+
 ## Contact With Me
 
 [![Email](https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico)](mailto:mhmd.salem33@yahoo.com)
