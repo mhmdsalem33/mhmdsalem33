@@ -12,6 +12,9 @@
 
 
 I'm mhmd salem , android software developer , i'm interested in computer science in general and Software Development in a specific way, and I have the desire to prove my software abilities and I seek to develop myself and my skills every day.
+
+⭐ Android Developer at Alexon Incorp.
+
 - * I’m currently learning mobile development technologies like Android Native and Flutter.
 - * I’m currently learning about Back-End, Database, Algorithms, and Data Structure with C++.
 - * Future Goals: Contribute more to the community and learn more about Computer Science and new technologies that arise.
