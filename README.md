@@ -13,10 +13,6 @@
 
 
 
-
-
-<p><img align="left" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="MhmdSalem" width="350" height="270" /></p>
-
 I'm mhmd salem , android software developer , i'm interested in computer science in general and Software Development in a specific way, and I have the desire to prove my software abilities and I seek to develop myself and my skills every day.
 
 ⭐ Android Developer at Alexon Incorp.
@@ -26,6 +22,8 @@ I'm mhmd salem , android software developer , i'm interested in computer science
 - * Future Goals: Contribute more to the community and learn more about Computer Science and new technologies that arise.
 
 That's all 😃.
+
+<p><img align="left" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="MhmdSalem" width="350" height="270" /></p>
 
 
 
