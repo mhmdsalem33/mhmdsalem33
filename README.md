@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <!--
 - 🔭 I’m currently working on ALEXON INCORP. FOR E-SOLUTIONS
 - 🌱 I’m currently learning mobile development technologies like Android Native and Flutter.
