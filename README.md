@@ -14,7 +14,7 @@
   <div style="float: left; width: 70%;">
     <h3>Hi there 👋</h3>
     <p>
-      I'm mhmd salem, android software developer, interested in computer science in general and Software Development in a specific way. I have the desire to prove my software abilities and seek to develop myself and my skills every day.
+      I'm mhmd salem, mobile software developer, interested in computer science in general and Software Development in a specific way. I have the desire to prove my software abilities and seek to develop myself and my skills every day.
       <br><br>
       ⭐ Software Developer at Alexon Inc.
       <br><br>
