@@ -45,5 +45,7 @@
 
 [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" alt="Email" width="30" height="30">](mailto:mhmd.salem33@yahoo.com)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/mhmd-salem-a004a0213/)
+[<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="30" height="30">](https://www.youtube.com/@nerdsplus5499/playlists)
+
 
 
