@@ -27,9 +27,10 @@
       That's all 😃.
     </p>
        <br>
-      - Don't forget to check my youtube channel [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="30" height="30">](https://www.youtube.com/@nerdsplus5499/playlists)
+      - Don't forget to check my youtube channel
+        [<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="30" height="30">](https://www.youtube.com/@nerdsplus5499/playlists)
       <br><br>
-      That's all 😃.
+     😃.
     </p>
   </div>
   <div style="float: right; width: 30%; text-align: right;">
